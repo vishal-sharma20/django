@@ -10,7 +10,7 @@ def day(request, day):
         "Monday" : "सोमवार",
         "Tuesday" : "मंगलवार",
         "Wednesday" : "बुधवार",
-        "Thurday" : "गुरुवार",
+        "Thursday" : "गुरुवार",
         "Friday" : "शुक्रवार",
         "Saturday" : "शनिवार",
         "Sunday" : "रविवार"
